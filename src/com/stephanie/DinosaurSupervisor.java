@@ -6,9 +6,12 @@ public class DinosaurSupervisor {
 	    Dinosaur t_rex = new Dinosaur();
         Dinosaur velociraptor = new Dinosaur();
         Dinosaur diplodocus =new Dinosaur();
+        Dinosaur great_dane = new Dinosaur();
+
 
         t_rex.roar();
         velociraptor.roar();
         diplodocus.roar();
+        great_dane.roar();
     }
 }
