@@ -12,6 +12,7 @@ public class DinosaurSupervisor {
         t_rex.roar();
         velociraptor.roar();
         diplodocus.roar();
-        great_dane.roar();
+        great_dane.bark();
+        great_dane.say_hi();
     }
 }
